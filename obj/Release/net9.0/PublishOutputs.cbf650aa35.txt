@@ -1,0 +1,1 @@
+C:\Users\Pelantaro\Desktop\Blazor2UnitConverter\BlazorUnitConverter\BlazorConverter\app\published\web.config
